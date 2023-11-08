@@ -30,4 +30,8 @@ messages:
   changes_approved: "👍 Approved {ID} in {REPO}"
   changes_requested: "🔴 Requested changes in {ID} in {REPO}"
   new_release: "✌️ Released {ID} in {REPO}"
+
+- name: Recent GitHub Activity - Profile Readme
+  uses: Readme-Workflows/recent-activity@v2.4.1
+            
   new_star: "⭐ Starred {REPO}"
